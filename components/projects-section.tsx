@@ -16,7 +16,7 @@ const projects = [
     title: 'IT-consulting-website',
    description: 'A responsive website built with HTML and Tailwind CSS for a modern and sleek user experience.',
     tech: ['Html','Css','Tailwindcss','Javascript'],
-    demo: 'https://it-consulting-website.vercel.app/',
+    demo: 'https://it-consulting-website-mu.vercel.app/',
     image: "WebTeck.gif",
     urlName:"IT-consulting-website"
   },
