@@ -32,7 +32,7 @@ const projects = [
     title: 'Event Management',
     description: 'A MERN stack-based event management system for Suvidha International Foundation.',
     tech: ['MongoDB','Express.js','React.js','Node.js'],
-    demo: '',
+    demo: 'https://suvidha-event-management-frontend.vercel.app/',
     image: 'Event_Management.gif',
     urlName:"Event_Management"
   },
