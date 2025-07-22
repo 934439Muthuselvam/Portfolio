@@ -4,7 +4,7 @@ import { Timeline } from './timeline'
 
 const experiences = [
   {
-    date: '2024 - Present',
+    date: '2024 - 2025 ',
     title: 'Full Stack Developer at Brain Insight',
     description: 'Built responsive web applications,integrated third-party APIs',
     color: 'green'
